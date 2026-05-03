@@ -1,9 +1,9 @@
-# 盘古 · 开天术 (huadu-pangu)
+# 盘古 · 开天术 (pangu)
 
 > 「知识库是图书馆，Skill 是专家」——把你的知识库从「被动查询」变成「主动能力」。
 
 [![ClawbHub](https://img.shields.io/badge/ClawbHub-发布技能-blue?style=flat&logo=github)](https://clawhub.ai/publish-skill)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Version](https://img.shields.io/badge/version-1.0.1-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
@@ -82,7 +82,7 @@ IMA 知识库（原始积累）
 ## 📂 目录结构
 
 ```
-huadu-pangu/
+pangu/
 ├── SKILL.md                          # 核心技能文件（必需）
 ├── references/                       # 参考文档（蒸馏最佳实践）
 │   └── distillation-best-practices.md

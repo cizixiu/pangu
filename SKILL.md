@@ -1,5 +1,5 @@
 ---
-name: huadu-pangu
+name: pangu
 description: |
   盘古 · 开天术 - 将知识库/文件夹/单文档蒸馏为专业可安装的Skill。
   支持四种蒸馏模式：完整知识库、指定文件夹、单篇文档、任务工作流。
@@ -291,4 +291,4 @@ Phase 5 验证通过后，可选启动双Agent精炼：
 一个好的蒸馏 Skill，应该让用户在安装后，只需要说一句话，就能触发完整的工作流——就像有一个专家在旁边指导一样。
 **蒸馏的是能做到什么（流程/规则/框架），不是知道什么（信息/文档）。**
 
-> 本 Skill 由 [盘古 · 开天术](https://github.com/cizixiu/huadu-pangu) 生成
+> 本 Skill 由 [盘古 · 开天术](https://github.com/cizixiu/pangu) 生成
