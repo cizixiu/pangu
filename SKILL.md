@@ -1,7 +1,7 @@
 ---
 name: pangu
 description: |
-  盘古 · 开天术 - 将知识库/文件夹/单文档蒸馏为专业可安装的Skill。
+  盘古 · skill - 将知识库/文件夹/单文档蒸馏为专业可安装的Skill。
   支持四种蒸馏模式：完整知识库、指定文件夹、单篇文档、任务工作流。
 trigger: 蒸馏知识库,知识库转skill,把知识库变成skill,distill kb,kb to skill,知识库蒸馏,开天术,盘古
 metadata:
@@ -9,7 +9,7 @@ metadata:
     tags: [knowledge-distillation, skill-creation, ai-agent, productivity]
 ---
 
-# 盘古 · 开天术
+# 盘古 · skill
 
 > 「知识库是图书馆，Skill 是专家」——把你的知识库从「被动查询」变成「主动能力」。
 
@@ -25,14 +25,14 @@ metadata:
 
 ```
 IMA 知识库（原始积累）
-    ↓ 盘古·开天术 蒸馏
+    ↓ 盘古 蒸馏
 可安装的 Skill（结构化能力）
     ↓ 安装到 IMA Copilot
 触发关键词 → 自动执行完整工作流
 ```
 
 **在 IMA 中使用本技能的完整流程：**
-1. 在 IMA Copilot 中对话，说「开天术」或「蒸馏知识库」
+1. 在 IMA Copilot 中对话，说「盘古」或「蒸馏知识库」
 2. 按提示提供知识库名称和需求
 3. 本技能自动读取 IMA 知识库内容并蒸馏
 4. 生成可安装的 Skill 文件
@@ -291,4 +291,4 @@ Phase 5 验证通过后，可选启动双Agent精炼：
 一个好的蒸馏 Skill，应该让用户在安装后，只需要说一句话，就能触发完整的工作流——就像有一个专家在旁边指导一样。
 **蒸馏的是能做到什么（流程/规则/框架），不是知道什么（信息/文档）。**
 
-> 本 Skill 由 [盘古 · 开天术](https://github.com/cizixiu/pangu) 生成
+> 本 Skill 由 [盘古 · skill](https://github.com/cizixiu/pangu) 生成
